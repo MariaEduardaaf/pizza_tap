@@ -1,17 +1,18 @@
-# sushi_counter
+# 🍕 Pizza Tap
 
-A new Flutter project.
+**Pizza Tap** is a fun and minimal Flutter app to count how many slices of pizza you've eaten during a meal or party. Tap the pizza emoji and track your cheesy progress in real-time! 🧀🔥
 
-## Getting Started
+## 📱 Features
 
-This project is a starting point for a Flutter application.
+- 🍕 Animated pizza counter
+- 🎨 Background color changes as you eat more
+- ✨ Smooth, centered and responsive UI
+- 🔁 Reset button
+- 🌙 Dark themed interface
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Getting Started
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# pizza_tap
+1. Clone the repo:
+```bash
+git clone https://github.com/your-username/pizza-tap.git
+cd pizza-tap
